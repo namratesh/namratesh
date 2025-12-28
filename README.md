@@ -29,12 +29,25 @@ I am a Data Scientist focused on **Production AI**. I specialize in moving model
 
 | Domain | Tech Stack |
 | :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 | **Generative AI** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) |
 | **Cloud & Infra** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
 | **Ops & Tracking** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=namratesh)](https://git.io/streak-stats)
+### 🔥 **Activity & Contributions**
 
-  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namratesh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namratesh/namratesh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namratesh/namratesh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/namratesh/namratesh/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

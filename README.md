@@ -25,7 +25,7 @@ I am a Data Scientist focused on **Production AI**. I specialize in moving model
 
 ---
 
-### 🛠️ **The MLOps Arsenal**
+### 🛠️ **The Skills**
 
 | Domain | Tech Stack |
 | :--- | :--- |
@@ -35,13 +35,5 @@ I am a Data Scientist focused on **Production AI**. I specialize in moving model
 | **Ops & Tracking** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 ---
-
-### ⚡ **Live Activity**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namratesh&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=0078D4&fire=FF4500&currStreakNum=FFF" alt="Namratesh Streak" />
+Streak" />
   
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=namratesh&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
-</div>

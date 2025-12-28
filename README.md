@@ -1,44 +1,22 @@
-<div align="center">
-  <h2>👋 Hi, I’m Namratesh</h2>
-  <h3>Data Scientist @ Publicis Sapient</h3>
-  <p><i>Building end-to-end AI solutions that actually solve problems</i></p>
+## 👋 Hi there, I’m Namratesh
 
-  <a href="https://github.com/namratesh">
-    <img src="https://img.shields.io/badge/Focus-GenAI%20%26%20LLMs-blueviolet?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/namratesh">
-    <img src="https://img.shields.io/badge/Cloud-Azure%20Native-0078D4?style=for-the-badge" />
-  </a>
-</div>
+<a href="https://github.com/namratesh">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F84F7&width=435&lines=Data+Scientist+%40+Publicis+Sapient;Building+End-to-End+AI+Solutions;Expert+in+LLMs%2C+RAG+%26+Azure;Teaching+Next-Gen+AI+Developers" alt="Typing SVG" />
+</a>
 
----
+I am a Data Scientist passionate about bridging the gap between theoretical AI and production-grade solutions.
 
-### 🧐 About Me
+* 🔭 **I’m currently working on:** Cloud-native AI apps using **Azure** & **Hugging Face**
+* 🌱 **I’m currently learning:** Advanced RAG patterns & Agentic Workflows
+* 👨‍🏫 **I’m looking to help with:** Mentoring students in ML/AI hands-on projects
+* ⚡ **Fun fact:** I don't just build models; I deploy them.
 
-- 💼 **Role:** Data Scientist at Publicis Sapient
-- 🧠 **Core Interests:** Machine Learning, Deep Learning, RAG, MLOps, LLMs
-- 🌐 **Current Stack:** Azure, Hugging Face, Transformers, LangChain
-- 📊 **Passion:** Teaching ML & AI to students through hands-on projects
-- 🚀 **Motto:** Always learning, always experimenting
+### 🧰 Languages & Tools
 
-### 🛠️ Tech Stack
+| AI & ML | Cloud & Ops |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HF](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch) | ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-</p>
+<br/>
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=namratesh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratesh&layout=compact&hide_border=true&theme=react" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=namratesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=00000000&text_color=000" />

@@ -35,4 +35,6 @@ I am a Data Scientist focused on **Production AI**. I specialize in moving model
 | **Ops & Tracking** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=namratesh)](https://git.io/streak-stats)
+
   

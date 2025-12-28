@@ -29,6 +29,15 @@
 
 ---
 
+### 🏆 Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=namratesh&theme=flat&no-frame=true&margin-w=15" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -41,10 +50,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
+### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namratesh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Namratesh Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratesh&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namratesh&theme=radical&hide_border=true" alt="Namratesh Streak" />
 </div>

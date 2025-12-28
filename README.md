@@ -39,9 +39,6 @@ I am a Data Scientist focused on **Production AI**. I specialize in moving model
 
 ### 🔥 **Activity & Contributions**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namratesh&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <br/>
